@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# devise for rails auth
+gem 'devise'
+
 # rails_12factor for Heroku deployment
 gem 'rails_12factor', group: :production
 
